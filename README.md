@@ -8,5 +8,5 @@ I am originally from Italy where I started my own company http://ubqart.com/ and
 
 I am a fan of games with incredibly complex phisics and I enjoy exploring Unity during the freetime 
 
-Catch you on the other side of the portal<br/> 
+Catch you on the other side of the portal<br/><br/>
 <img src="https://octodex.github.com/images/chellocat.jpg" alt="drawing" width="100"/>
