@@ -3,7 +3,7 @@ I am **Zep**,
 
 I am a maniac when it comes to a new language. I have to dig deeper and understand how the language works within the Operating System and the related layers of architecture.
 
-Originally from Italy where I started my own company http://ubqart.com/ and since then I never stopped coding 
+Originally from Italy where I started my own company http://ubqart.com/ and lately I been playing with some Rails => https://www.themovementcreative.com/move-more
 
 I am a fan of games with incredibly complex phisics and I enjoy exploring Unity during the freetime 
 
