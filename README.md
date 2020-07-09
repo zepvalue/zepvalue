@@ -1,8 +1,8 @@
 # **Hello World!**
 
-I am Zep,
+I am **Zep**,
 
-I love to learn new languages and work on side projects. I am a maniac when it comes to a new language: I have to dig deeper and understand how the language works with the Operating System and the related layers in architecture.
+I am a maniac when it comes to a new language. I have to dig deeper and understand how the language works within the Operating System and the related layers of architecture.
 
 I am originally from Italy where I started my own company http://ubqart.com/ and since then I never stopped coding 
 
