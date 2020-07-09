@@ -11,10 +11,10 @@ Catch you on the other side of the portal<br/><br/>
 <img src="https://octodex.github.com/images/chellocat.jpg" alt="drawing" width="100"/>
 <hr/>
 
-<div><center><b>Be Social</b>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/zepvalue/"><img src="https://cdn.gifo.wisestamp.com/social/linkedin/0077b5/32/circle.png" style="border:0px;"></a>  &nbsp;
+<center><div><b>Be Social</b>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/zepvalue/"><img src="https://cdn.gifo.wisestamp.com/social/linkedin/0077b5/32/circle.png" style="border:0px;"></a>  &nbsp;
 <a href="https://twitter.com/zepvalue"><img src="https://cdn.gifo.wisestamp.com/social/twitter/55acee/32/circle.png" style="border:0px;padding:20px;"></a>
  &nbsp;
- <a href="https://youtube.com/zepvalue"><img src="https://cdn.gifo.wisestamp.com/social/youtube/cd201f/32/circle.png" style="border:0px;padding:20px;"></a><center></div>
+ <a href="https://youtube.com/zepvalue"><img src="https://cdn.gifo.wisestamp.com/social/youtube/cd201f/32/circle.png" style="border:0px;padding:20px;"></a></div></center>
 
 
 
