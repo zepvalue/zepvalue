@@ -1,5 +1,5 @@
-# **Hello World!** <a href="https://www.linkedin.com/in/zepvalue/"><img src="https://cdn.gifo.wisestamp.com/social/linkedin/0077b5/32/circle.png" style="border:0px;width:200px;float:right"></a>  
-<a href="https://twitter.com/zepvalue"><img src="https://cdn.gifo.wisestamp.com/social/twitter/55acee/32/circle.png" style="border:0px;padding:20px;width:200px;float:right"></a>
+# **Hello World!** <a href="https://www.linkedin.com/in/zepvalue/"><img src="https://cdn.gifo.wisestamp.com/social/linkedin/0077b5/32/circle.png" style="border:0px;width:200px;"></a>  
+<a href="https://twitter.com/zepvalue"><img src="https://cdn.gifo.wisestamp.com/social/twitter/55acee/32/circle.png" style="border:0px;padding:20px;width:200px;"></a>
 
 
 I am **Zep**, 
