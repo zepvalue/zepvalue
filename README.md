@@ -1,9 +1,3 @@
-## Images
+## Hello World!
 
-
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+<img src="https://octodex.github.com/images/chellocat.jpg" alt="drawing" width="200"/>
