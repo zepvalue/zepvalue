@@ -12,6 +12,10 @@ Catch you on the other side of the portal<br/><br/>
 <hr/>
 
 <div><b>Be Social</b>&nbsp;<a href="https://www.linkedin.com/in/zepvalue/"><img src="https://cdn.gifo.wisestamp.com/social/linkedin/0077b5/32/circle.png" style="border:0px;"></a>  
-<a href="https://twitter.com/zepvalue"><img src="https://cdn.gifo.wisestamp.com/social/twitter/55acee/32/circle.png" style="border:0px;padding:20px;"></a></div>
+<a href="https://twitter.com/zepvalue"><img src="https://cdn.gifo.wisestamp.com/social/twitter/55acee/32/circle.png" style="border:0px;padding:20px;"></a><a href="https://youtube.com/zepvalue"><img src="https://cdn.gifo.wisestamp.com/social/youtube/cd201f/32/circle.png" style="border:0px;padding:20px;"></a></div>
+
+
+
+
 
  
