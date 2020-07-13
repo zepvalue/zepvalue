@@ -5,7 +5,7 @@ I am a maniac when it comes to a new language. I have to dig deeper and understa
 
 - :art: Originally from Italy where I started my own company http://ubqart.com/
 - :gem: I been playing with some Rails https://www.themovementcreative.com/move-more
-- :video_game: I am a fan of games with incredibly complex phisics and I enjoy exploring Unity during the freetime 
+- :video_game: I am a fan of simulators with incredibly complex phisics and I enjoy exploring Unity during the freetime 
 
 Catch you on the other side of the portal<br/><br/>
 <img src="https://octodex.github.com/images/chellocat.jpg" alt="drawing" width="100"/>
