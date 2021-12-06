@@ -2,8 +2,7 @@
 I am **Zep**,
 
 I am a maniac when it comes to a new language. I have to dig deeper and understand how the language works within the Operating System and the related layers of architecture.
-
-- :art: Originally from Italy where I started my own company http://ubqart.com/
+- :art: Originally from Italy where I started my own company <a href="https://web.archive.org/web/20201205123019/http://ubqart.com/">Ubqart</a>
 - :gem: Rails side-project https://github.com/TheMovementCreative/MC-Wiki-Rails 
 - :video_game: Fan of Unity and C#/C++ projects with incredibly complex phisics
 - :running: Enjoy healthy lifestyle and any type of movement
