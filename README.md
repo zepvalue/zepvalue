@@ -10,7 +10,7 @@ I am a maniac when it comes to a new language. I have to dig deeper and understa
 <a href="https://www.linkedin.com/in/zepvalue/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border:0px;"></a>  &nbsp;
 <a href="https://twitter.com/zepvalue"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="border:0px;padding:20px;"></a>
  &nbsp;
- <a href="https://youtube.com/zepvalue"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="border:0px;padding:20px;"></a>
+ <!-- <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="border:0px;padding:20px;"></a> -->
 
 
 
