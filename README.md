@@ -1,17 +1,8 @@
+Greetings, I'm **Zep**.
 
-I am **Zep**,
+I harbor a fervent enthusiasm for delving into new languages. I consider myself a devotee, always eager to plunge deeper into the intricacies of how a language operates within the framework of the Operating System and its associated layers of architecture.
 
-I am a maniac when it comes to a new language. I have to dig deeper and understand how the language works within the Operating System and the related layers of architecture.
-- :art: Originally from Italy where I started my own company <a href="https://web.archive.org/web/20201205123019/http://ubqart.com/">Ubqart</a>
-- :fire: Co-creator of <a href="https://firecomm.github.io/">Firecomm</a> a feature library for gRPC-Node
-- :video_game: Fan of Unreal Engine C#/C++ projects with complex phisics
-- :running: Enjoy healthy lifestyle and any type of movement
-
-<a href="https://www.linkedin.com/in/zepvalue/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border:0px;"></a>  &nbsp;
- <!-- <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="border:0px;padding:20px;"></a> -->
-
-
-
-
-
- 
+- :art: Originally hailing from Italy, I took the entrepreneurial path and founded <a href="https://web.archive.org/web/20201205123019/http://ubqart.com/">Ubqart</a>.
+- :fire: As a co-creator of <a href="https://firecomm.github.io/">Ubqart</a>, a feature library for gRPC-Node, I contribute to cutting-edge developments.
+- :video_game: I am an avid supporter of Unreal Engine C#/C++ <a href="https://zepvalue.itch.io/">projects</a> , particularly those that involve intricate physics. 
+- :running: Embracing a healthy lifestyle, I find joy in various forms of movement.
