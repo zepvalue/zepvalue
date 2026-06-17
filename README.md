@@ -1,8 +1,34 @@
-Greetings, I'm **Zep**.
+### Hi, I'm Zep 👋
 
-I harbor a fervent enthusiasm for delving into new languages. I consider myself a devotee, always eager to plunge deeper into the intricacies of how a language operates within the framework of the Operating System and its associated layers of architecture.
+**Backend Engineer** — distributed systems, gRPC, and Node. Italian, language-obsessed,
+and happiest a few layers down: how a language actually behaves against the OS and the
+architecture beneath it.
 
-- :art: Originally hailing from Italy, I took the entrepreneurial path and founded <a href="https://web.archive.org/web/20201205123019/http://ubqart.com/">Ubqart</a>.
-- :fire: As a co-creator of <a href="https://firecomm.github.io/">Firecomm</a>, a feature library for gRPC-Node, I contribute to cutting-edge developments.
-- :video_game: I am an avid supporter of Unreal Engine C#/C++ <a href="https://zepvalue.itch.io/">projects</a> , particularly those that involve intricate physics. 
-- :running: Embracing a healthy lifestyle, I find joy in various forms of movement.
+🌐 [zepvalue.github.io](https://zepvalue.github.io) · 𝕏 [@zepvalue](https://x.com/zepvalue) · [LinkedIn](https://www.linkedin.com/in/zepvalue)
+
+---
+
+#### 🚀 What I've built
+
+- 🎨 **Founder of [UbqArt](https://ubqart.com)** — a social network created by artists, for
+  artists. Shipped on web, iOS, and Android.
+- 📦 **[firecomm](https://www.npmjs.com/package/firecomm)** — a feature library for gRPC-Node
+  that cuts the boilerplate out of typed, streaming services.
+  ![npm](https://img.shields.io/npm/v/firecomm?color=cb3837&label=npm) ![downloads](https://img.shields.io/npm/dy/firecomm?color=22c55e&label=downloads%2Fyr)
+- 🔐 **[two-auth](https://www.npmjs.com/package/two-auth)** — two-factor SMS auth with Twilio
+  in three lines of code.
+  ![npm](https://img.shields.io/npm/v/two-auth?color=cb3837&label=npm) ![downloads](https://img.shields.io/npm/dy/two-auth?color=22c55e&label=downloads%2Fyr)
+- 🏋️ **[zippy-fit](https://github.com/zepvalue/zippy-fit)** — a co-op fitness game: pair up,
+  keep a shared streak, don't be the one who breaks it.
+- 🎮 **Unreal Engine** C++/physics experiments → [itch.io](https://zepvalue.itch.io/)
+
+---
+
+#### 🛠️ Working with
+
+`TypeScript` · `Node` · `gRPC` · `GraphQL / NestJS` · `Python` · `AWS Lambda` · `Java` · `C++` · `Scala`
+
+---
+
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=zepvalue&show_icons=true&hide_border=true&theme=dark&hide=contribs" />
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zepvalue&layout=compact&hide_border=true&theme=dark" />
