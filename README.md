@@ -4,15 +4,13 @@
 and happiest a few layers down: how a language actually behaves against the OS and the
 architecture beneath it.
 
-🌐 [zepvalue.github.io](https://zepvalue.github.io) · 𝕏 [@zepvalue](https://x.com/zepvalue) · [LinkedIn](https://www.linkedin.com/in/zepvalue)
-
 ---
 
 #### 🚀 What I've built
 
 - 🎨 **Founder of [UbqArt](https://ubqart.com)** — a social network created by artists, for
   artists. Shipped on web, iOS, and Android.
-- 📦 **[firecomm](https://www.npmjs.com/package/firecomm)** — a feature lib for gRPC-Node that cuts the boilerplate out of typed, streaming services.
+- 📦 **[firecomm](https://www.npmjs.com/package/firecomm)** — a feature lib for gRPC-Node that cuts the boilerplate out of streaming services.
   ![npm](https://img.shields.io/npm/v/firecomm?color=cb3837&label=npm) ![downloads](https://img.shields.io/npm/dy/firecomm?color=22c55e&label=downloads%2Fyr)
 - 🔐 **[two-auth](https://www.npmjs.com/package/two-auth)** — two-factor SMS auth with Twilio
   in three lines of code.
