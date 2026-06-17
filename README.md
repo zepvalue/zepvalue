@@ -29,6 +29,4 @@ architecture beneath it.
 `TypeScript` · `Node` · `gRPC` · `GraphQL / NestJS` · `Python` · `AWS Lambda` · `Java` · `C++` · `Scala`
 
 ---
-
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=zepvalue&show_icons=true&hide_border=true&theme=dark&hide=contribs" />
 <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zepvalue&layout=compact&hide_border=true&theme=dark" />
