@@ -8,7 +8,7 @@ architecture beneath it.
 
 #### 🚀 What I've built
 
-- 🎨 **Founder of [UbqArt](https://ubqart.com)** — a social network created by artists, for
+- 🎨 ** Exit Founder of [UbqArt](https://ubqart.com)** — a social network created by artists, for
   artists. Shipped on web, iOS, and Android.
 
 - 🔐 **[two-auth](https://www.npmjs.com/package/two-auth)** — two-factor SMS auth with Twilio
