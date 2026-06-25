@@ -21,5 +21,3 @@ architecture beneath it.
 - 📦 **[firecomm](https://www.npmjs.com/package/firecomm)** — a feature lib for gRPC-Node that cuts the boilerplate out of typed , streaming services.
   </br></br>![npm](https://img.shields.io/npm/v/firecomm?color=cb3837&label=npm) ![downloads](https://img.shields.io/npm/dy/firecomm?color=22c55e&label=downloads%2Fyr)
 ---
-
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zepvalue&layout=compact&hide_border=true&theme=dark" />
